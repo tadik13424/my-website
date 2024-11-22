@@ -1,0 +1,18 @@
+Jak vypnout server:
+Zastavení serveru v terminálu: Pokud máš server spuštěný, můžeš ho zastavit jednoduše tím, že přejdeš do terminálu, kde běží, a stiskneš Ctrl + C. Tím se proces serveru přeruší a server se vypne.
+Jak spustit server znovu:
+Znovu otevři terminál: Přejdi do složky, kde máš svůj projekt (pokud už nejsi v té složce):
+
+bash
+Zkopírovat kód
+cd C:\Users\ujvyk\Desktop\webisto
+Spusť server znovu: Použij příkaz:
+
+bash
+Zkopírovat kód
+node server.js
+Tímto způsobem můžeš vypnout server kdykoliv a znovu spustit, jakmile budeš potřebovat.
+
+Pokud plánuješ spustit server a nechceš mít otevřený terminál neustále, můžeš použít nástroje jako pm2 pro automatické spouštění a správu Node.js aplikací, ale to by bylo na složitější nastavení.
+
+Pokud chceš více informací o těchto nástrojích nebo máš nějaké další otázky, dej vědět! 😊
